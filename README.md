@@ -1,0 +1,1 @@
+Streamlit-based Text-to-SQL Generator allows users to convert natural language queries into optimized SQL queries using different AI APIs (Gemini, TogetherAI, and AgenticAI). Users can upload an XLSX file, extract column names, and get SQL queries based on their input. It also supports query history tracking and exporting generated SQL queries. 🚀
